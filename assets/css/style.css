@@ -67,6 +67,7 @@ a {
     position: relative;
     height: 100vh;
     background: #e6f0ff;
+    height: calc(100vh - 90px);
 }
 
 .navbar {
